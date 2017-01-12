@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentGroupMap xmlns="http://schemas.microsoft.com/appx/2016/contentgroupmap" xmlns:s="http://schemas.microsoft.com/appx/2016/contentgroupmap">
+    <Automatic>
+        <ContentGroup Name="Level_1">
+            <File Name="Assets\Level1-Car.bmp"/>
+            <File Name="Assets\Level1-RaceCar.jpg"/>
+        </ContentGroup>
+
+        <ContentGroup Name="Level_2">
+            <File Name="Assets\Level2-Car.bmp"/>
+            <File Name="Assets\Level2-RaceCar.jpg"/>
+        </ContentGroup>
+
+        <ContentGroup Name="Level_3">
+            <File Name="Assets\Level3-Car.bmp"/>
+            <File Name="Assets\Level3-RaceCar.jpg"/>
+        </ContentGroup>
+    </Automatic>
+    
+</ContentGroupMap>

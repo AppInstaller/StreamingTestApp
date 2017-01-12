@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentGroupMap xmlns="http://schemas.microsoft.com/appx/2016/contentgroupmap" xmlns:s="http://schemas.microsoft.com/appx/2016/contentgroupmap">
+    <Automatic>
+        <ContentGroup Name="Level_1_part1">
+            <File Name="Assets\fr-fr\RaceCar-fr.jpg"/>
+        </ContentGroup>
+
+        <ContentGroup Name="Level_1_part2">
+            <File Name="Assets\fr-fr\Level1-Car-fr.png"/>
+        </ContentGroup>
+    </Automatic>
+</ContentGroupMap>
